@@ -1,11 +1,10 @@
 # Music Library
 
-Music Library is a basic web application for managing and organizing your music collection, built using HTML and CSS.
+Music Library is a basic frontend application for managing and organizing your music collection, built using HTML and CSS. It a template static website withoout backend support.
 
 
 ## Features
 
-- **User Authentication:** Register and login securely to manage your music library.
 - **Add and Edit Songs:** Easily add new songs to your collection and edit existing ones.
 - **Search Functionality:** Quickly find songs by title, artist, or genre.
 - **Responsive Design:** Enjoy a seamless experience on both desktop and mobile devices.
